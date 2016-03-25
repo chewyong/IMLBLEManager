@@ -1,0 +1,6 @@
+framework module cypods {
+  umbrella header "cypods-umbrella.h"
+
+  export *
+  module * { export * }
+}

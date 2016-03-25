@@ -1,0 +1,15 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'cypods_Example', :exclusive => true do
+  pod 'cypods', :path => '../'
+end
+
+target 'cypods_Tests', :exclusive => true do
+  pod 'cypods', :path => '../'
+
+  pod 'Specta'
+  pod 'Expecta'
+  pod 'FBSnapshotTestCase'
+  pod 'Expecta+Snapshots'
+end
