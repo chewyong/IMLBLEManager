@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'BE3930BB48B34A428FAF5ACE'
-               BlueprintName = 'Expecta+Snapshots'
+               BlueprintIdentifier = 'E228D7881E468F92F0B2BDFC'
+               BlueprintName = 'IMLBLEManager'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'Expecta_Snapshots.framework'>
+               BuildableName = 'IMLBLEManager.framework'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

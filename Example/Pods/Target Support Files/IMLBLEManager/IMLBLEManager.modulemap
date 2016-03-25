@@ -1,0 +1,6 @@
+framework module IMLBLEManager {
+  umbrella header "IMLBLEManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

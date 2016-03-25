@@ -1,12 +1,12 @@
 source 'https://github.com/CocoaPods/Specs.git'
 use_frameworks!
 
-target 'cypods_Example', :exclusive => true do
-  pod 'cypods', :path => '../'
+target 'IMLBLEManager_Example', :exclusive => true do
+  pod 'IMLBLEManager', :path => '../'
 end
 
-target 'cypods_Tests', :exclusive => true do
-  pod 'cypods', :path => '../'
+target 'IMLBLEManager_Tests', :exclusive => true do
+  pod 'IMLBLEManager', :path => '../'
 
   pod 'Specta'
   pod 'Expecta'

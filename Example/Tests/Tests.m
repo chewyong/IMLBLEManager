@@ -1,6 +1,6 @@
 //
-//  cypodsTests.m
-//  cypodsTests
+//  IMLBLEManagerTests.m
+//  IMLBLEManagerTests
 //
 //  Created by chewyong on 03/25/2016.
 //  Copyright (c) 2016 chewyong. All rights reserved.

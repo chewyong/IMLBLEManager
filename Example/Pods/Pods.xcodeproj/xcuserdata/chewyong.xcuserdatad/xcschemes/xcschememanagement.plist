@@ -19,27 +19,27 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-cypods_Example.xcscheme</key>
+		<key>IMLBLEManager-IMLBLEManager.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-cypods_Tests.xcscheme</key>
+		<key>IMLBLEManager.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-IMLBLEManager_Example.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-IMLBLEManager_Tests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
 		<key>Specta.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>cypods-cypods.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>cypods.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -52,22 +52,22 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>9E0D77BE6D6F4DD838F846C512B83727</key>
+		<key>5149AB73A498DF096FC9AA7C5C4F0D61</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>BC9983109130D88DED4146086D077088</key>
+		<key>5C7C9FE8B361450D6410EC76D1F9A868</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C365EF0DB03CAE0C33CA5069C2A557DB</key>
+		<key>7D714A257FEB876429D8865406BB9193</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D8D63840C0495B6E832980E4FBCEFC4C</key>
+		<key>B6E5DC014B9290F24C8EF6614720E942</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -82,7 +82,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>FD59B77EA053E4EE07ECD2B46367657B</key>
+		<key>FDC6727C421F609FC5C18FFF45BEE4D4</key>
 		<dict>
 			<key>primary</key>
 			<true/>

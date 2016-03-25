@@ -1,0 +1,26 @@
+{
+  "name": "IMLBLEManager",
+  "version": "0.1.0",
+  "summary": "A short description of IMLBLEManager.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/IMLBLEManager",
+  "license": "MIT",
+  "authors": {
+    "chewyong": "603487153@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/IMLBLEManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "IMLBLEManager": [
+      "Pod/Assets/*.png"
+    ]
+  },
+  "frameworks": "CoreBluetooth"
+}
